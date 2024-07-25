@@ -1,3 +1,3 @@
 # Grafana playground 🍇
 
-Playgroudn repository for random purposes with Grafana (and their stack).
+Playground repository for random purposes with Grafana (and their stack).
